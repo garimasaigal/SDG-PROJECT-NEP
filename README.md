@@ -13,10 +13,3 @@
 3. Classify a statement into social, environmental, and economic sustainability
 4. Examine and customize match syntax
 
-# Installation
-
-git clone https://github.com/caimeng2/seesus.git
-
-# Example
-
-Please run `example.ipynb` to see example usage.
